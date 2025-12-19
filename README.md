@@ -25,3 +25,6 @@ Análisis de eficiencia reproductiva en alpacas usando Python y SQL. Alpaca repr
    > *Statistical superiority in birth rates for Black (N) alpacas.*
 3. **Brecha de Eficiencia:** Identificación de un 18.6% de pérdida gestacional como punto crítico de intervención.
    > *18.6% gestational loss identified as a critical intervention point.
+   
+   ![Gráfico de Resultados](grafico_iep_alpacas.png)
+   
