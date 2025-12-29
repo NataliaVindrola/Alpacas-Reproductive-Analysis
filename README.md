@@ -53,4 +53,6 @@ Se ha desarrollado un dashboard interactivo para la monitorización en tiempo re
 > **Nota:** sobre interactividad: Debido a políticas de privacidad de la cuenta institucional, el dashboard interactivo se encuentra disponible mediante la descarga del archivo .pbix incluido en este repositorio.
 
 > *Note on interactivity: Due to institutional account privacy policies, the interactive dashboard is available by downloading the .pbix file included in this repository.*
+
+🔗 [Descargar archivo .pbix / Download .pbix file](https://github.com/NataliaVindrola/Alpacas-Reproductive-Analysis/raw/main/KPI%20alpacas.pbix)
    
