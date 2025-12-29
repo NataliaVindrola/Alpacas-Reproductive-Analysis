@@ -6,7 +6,7 @@ Análisis de eficiencia reproductiva en alpacas usando Python y SQL. Alpaca repr
 | Concepto / Concept | Detalle / Detail |
 | :--- | :--- |
 | **Población / Population** | +11,000 registros de alpacas (Servicios y Partos) |
-| **Stack Tecnológico** | Python (Pandas, Scipy), SQL (SQLite), Power bi |
+| **Stack Tecnológico** | Python (Pandas, Scipy), SQL (SQLite), Power BI |
 | **Análisis Estadístico** | Kruskal-Wallis, Regresión Logística, EDA |
 | **KPIs Analizados** | IEP (ICI), E1S (AFS), E1P (AFB), Tasas de Partos |
 | **Criterio Profesional** | Validación biológica de gestación (11 ± 1 meses) |
