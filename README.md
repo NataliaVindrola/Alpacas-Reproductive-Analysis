@@ -46,7 +46,7 @@ Se ha desarrollado un dashboard interactivo para la monitorización en tiempo re
   > *Inter-Calving Interval (ICI/IEP): Monitoring the transition toward the ideal 12-month cycle (one offspring per year).*
 
 ### Captura del Dashboard | Dashboard caption:
-![Dashboard de Reproducción de Alpacas]
+imagen_kpi_alpacas.png
 
 
 
